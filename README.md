@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Emunnyy
+- 👀 I’m interested in ML & AI
+- 🌱 I’m currently a student 
+- 💞️ I’m majoring in CS and Economics
+- ⚡ Fun fact: I am open to any sort of feedback
