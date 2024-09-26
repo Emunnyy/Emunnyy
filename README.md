@@ -1,0 +1,5 @@
+- 👋 Hi, Im Emunny
+- I am a CS student with a minor in economics📈
+- I am very interest in ML and AI 🤖
+- I develop Trading Bots and apply Financial Concepts into ML 🤝
+- I am open to any sort of feedback thank you ! 🙏
